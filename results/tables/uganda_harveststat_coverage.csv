@@ -1,0 +1,31 @@
+product,season_name,planting_year,planting_month,harvest_year,harvest_month,rows,districts
+Banana,First,2009,3,2009,7,67,67
+Banana,Second,2008,8,2008,12,73,73
+Beans (mixed),First,2009,3,2009,7,79,79
+Beans (mixed),Second,2008,8,2008,12,79,79
+Cassava,First,2009,3,2009,7,78,78
+Cassava,Second,2008,8,2008,12,78,78
+Cowpea,First,2009,3,2009,7,32,32
+Cowpea,Second,2008,8,2008,12,45,45
+Field Peas,First,2009,3,2009,7,51,51
+Field Peas,Second,2008,8,2008,12,55,55
+Groundnuts (In Shell),First,2009,3,2009,7,77,77
+Groundnuts (In Shell),Second,2008,8,2008,12,75,75
+Maize,First,2009,3,2009,7,79,79
+Maize,Second,2008,8,2008,12,80,80
+Millet,First,2009,3,2009,7,70,70
+Millet,Second,2008,8,2008,12,72,72
+Pigeon Pea,Annual,2008,3,2008,11,25,25
+Pigeon Pea,Annual,2009,3,2009,11,23,23
+Potato,First,2009,3,2009,7,38,38
+Potato,Second,2008,8,2008,12,39,39
+Rice,First,2009,3,2009,7,43,43
+Rice,Second,2008,8,2008,12,51,51
+Sesame Seed,First,2009,3,2009,7,45,45
+Sesame Seed,Second,2008,8,2008,12,40,40
+Sorghum,First,2009,3,2009,7,74,74
+Sorghum,Second,2008,8,2008,12,73,73
+Soybean,First,2009,3,2009,7,55,55
+Soybean,Second,2008,8,2008,12,50,50
+Sweet Potatoes,First,2009,3,2009,7,79,79
+Sweet Potatoes,Second,2008,8,2008,12,79,79

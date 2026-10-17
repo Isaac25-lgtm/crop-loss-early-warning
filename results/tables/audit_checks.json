@@ -1,0 +1,29 @@
+{
+  "source_rows_all_countries": 217370,
+  "east_africa_rows": 66446,
+  "east_africa_valid_rows": 57025,
+  "east_africa_duplicate_keys": 0,
+  "east_africa_yield_inconsistent_rows": 0,
+  "east_africa_missing_by_column": {
+    "area": 7513,
+    "production": 1322,
+    "yield": 8898
+  },
+  "uganda_rows": 1804,
+  "uganda_harvest_years": [
+    2008,
+    2009
+  ],
+  "uganda_fnid_prefixes": [
+    "UG2007A2"
+  ],
+  "uganda_eligible_series": 0,
+  "max_harvest_year_all_countries": 2026,
+  "eligibility_rule": {
+    "min_years": 15,
+    "min_recent_years": 5,
+    "recent_from": 2012,
+    "latest_at_least": 2018,
+    "min_train_years": 10
+  }
+}

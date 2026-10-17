@@ -1,0 +1,356 @@
+country_code,product,season_name,valid_rows,units,first_year,last_year,n_years,harvest_month_mode,series,eligible_series,eligible_units
+BI,Maize,Season A,64,16,2013,2016,4,1,16,0,0
+BI,Sweet Potatoes,Season A,63,16,2013,2016,4,1,16,0,0
+BI,Potato,Season A,56,16,2013,2016,4,1,16,0,0
+BI,Bush Bean,Season A,48,16,2014,2016,3,1,16,0,0
+BI,Bush Bean,Season B,48,16,2012,2014,3,8,16,0,0
+BI,Cassava,Season A,48,16,2014,2016,3,1,16,0,0
+BI,Cassava,Season B,48,16,2012,2014,3,8,16,0,0
+BI,Cassava,Season C,48,16,2012,2014,3,11,16,0,0
+BI,Pole Bean,Season A,48,16,2014,2016,3,1,16,0,0
+BI,Pole Bean,Season B,48,16,2012,2014,3,8,16,0,0
+BI,Sweet Potatoes,Season B,48,16,2012,2014,3,8,16,0,0
+BI,Sweet Potatoes,Season C,48,16,2012,2014,3,11,16,0,0
+BI,Banana,Season C,45,16,2012,2014,3,11,16,0,0
+BI,Taro,Season B,45,16,2012,2014,3,8,16,0,0
+BI,Groundnuts (In Shell),Season B,44,15,2012,2014,3,8,15,0,0
+BI,Banana,Season A,43,16,2013,2015,3,1,16,0,0
+BI,Maize,Season B,43,16,2012,2014,3,8,16,0,0
+BI,Banana,Season B,42,16,2012,2014,3,8,16,0,0
+BI,Potato,Season B,42,16,2012,2014,3,8,16,0,0
+BI,Soybean,Season B,42,15,2012,2014,3,8,15,0,0
+BI,Bush Bean,Season C,41,16,2012,2014,3,11,16,0,0
+BI,Potato,Season C,41,15,2012,2014,3,11,15,0,0
+BI,Rice,Season B,41,15,2012,2014,3,8,15,0,0
+BI,Taro,Season C,41,16,2012,2014,3,11,16,0,0
+BI,Groundnuts (In Shell),Season A,36,14,2014,2016,3,1,14,0,0
+BI,Pea,Season B,36,15,2012,2014,3,8,15,0,0
+BI,Pea,Season A,33,15,2013,2015,3,1,15,0,0
+BI,Rice,Season A,31,15,2013,2016,4,1,15,0,0
+BI,Sorghum,Season B,31,13,2012,2014,3,8,13,0,0
+BI,Millet,Season B,29,13,2012,2014,3,8,13,0,0
+BI,Cowpea,Season B,27,13,2012,2014,3,8,13,0,0
+BI,Taro,Season A,27,15,2013,2015,3,1,15,0,0
+BI,Sorghum,Season C,22,11,2012,2014,3,11,11,0,0
+BI,Maize,Season C,21,13,2012,2014,3,11,13,0,0
+BI,Soybean,Season A,21,13,2014,2015,2,1,13,0,0
+BI,Sorghum,Season A,20,9,2013,2016,4,1,9,0,0
+BI,Pigeon Pea,Season B,19,8,2012,2014,3,8,8,0,0
+BI,Wheat,Season C,19,7,2012,2014,3,11,7,0,0
+BI,Beans (mixed),Season A,16,16,2013,2013,1,1,16,0,0
+BI,Pole Bean,Season C,16,11,2012,2014,3,11,11,0,0
+BI,Wheat,Season B,16,11,2012,2014,3,8,11,0,0
+BI,Pea,Season C,14,6,2012,2014,3,11,6,0,0
+BI,Rice,Season C,13,9,2012,2014,3,11,9,0,0
+BI,Cowpea,Season A,12,7,2013,2015,3,1,7,0,0
+BI,Millet,Season A,12,10,2013,2015,3,1,10,0,0
+BI,Pigeon Pea,Season C,11,6,2012,2014,3,11,6,0,0
+BI,Wheat,Season A,11,6,2013,2015,3,1,6,0,0
+BI,Groundnuts (In Shell),Season C,9,6,2012,2014,3,11,6,0,0
+BI,Yams,Season A,8,6,2013,2014,2,1,6,0,0
+BI,Cowpea,Season C,6,5,2012,2014,2,11,5,0,0
+BI,Soybean,Season C,5,5,2012,2014,3,11,5,0,0
+BI,Yams,Season B,5,4,2012,2013,2,8,4,0,0
+BI,Millet,Season C,4,3,2012,2014,3,11,3,0,0
+BI,Sunflower Seed,Season B,3,3,2012,2012,1,8,3,0,0
+BI,Yams,Season C,3,3,2012,2012,1,11,3,0,0
+BI,Pigeon Pea,Season A,2,2,2014,2015,2,1,2,0,0
+BI,Sunflower Seed,Season C,1,1,2012,2012,1,11,1,0,0
+ET,Maize,Meher,1405,77,1993,2021,27,12,77,62,62
+ET,Teff,Meher,1202,65,1993,2021,24,12,65,53,53
+ET,Sorghum,Meher,1205,76,1993,2021,27,12,76,52,52
+ET,Fava Bean,Meher,1056,63,1995,2021,22,12,63,47,47
+ET,Barley,Meher,1067,67,1993,2021,23,12,67,43,43
+ET,Wheat,Meher,964,62,1993,2021,25,12,62,36,36
+ET,Field Peas,Meher,873,61,1995,2021,22,12,61,35,35
+ET,Coffee,Meher,660,57,2001,2021,18,12,57,20,20
+ET,Millet,Meher,550,51,1993,2021,24,12,51,19,19
+ET,Banana,Meher,608,56,2001,2021,17,12,56,18,18
+ET,Linseed,Meher,677,57,1997,2021,21,12,57,17,17
+ET,Neug,Meher,485,40,1996,2021,22,12,40,14,14
+ET,Sweet Potatoes,Meher,481,52,2001,2021,19,12,52,14,14
+ET,Chat,Meher,472,53,2001,2021,18,12,53,10,10
+ET,Potato,Meher,453,56,2001,2021,17,12,56,10,10
+ET,Hops,Meher,576,63,2003,2021,16,12,63,8,8
+ET,Lentils,Meher,418,44,1997,2021,21,12,44,8,8
+ET,Grass Pea,Meher,296,29,1997,2021,21,12,29,8,8
+ET,Sugarcane,Meher,465,55,2003,2021,16,12,55,7,7
+ET,Fenugreek,Meher,364,44,1997,2021,21,12,44,7,7
+ET,Rape,Meher,301,37,1997,2021,21,12,37,6,6
+ET,Sesame Seed,Meher,276,43,1996,2021,25,12,43,6,6
+ET,Beans (White),Meher,685,71,1995,2021,25,12,71,5,5
+ET,Cabbage,Meher,242,43,2001,2021,17,12,43,3,3
+ET,Oats,Meher,240,39,1997,2021,21,12,39,3,3
+ET,Groundnuts (In Shell),Meher,149,19,1996,2021,25,12,19,3,3
+ET,Soybean,Meher,55,17,2001,2021,17,12,17,1,1
+ET,Chick Peas,Meher,509,57,1997,2016,18,12,57,0,0
+ET,Ethiopian Cabbage,Meher,491,58,2001,2021,12,12,58,0,0
+ET,Green Peppers,Meher,405,64,2001,2021,12,12,64,0,0
+ET,Garlic,Meher,361,54,2001,2021,12,12,54,0,0
+ET,Chili Pepper,Meher,350,61,2001,2021,12,12,61,0,0
+ET,Onions,Meher,288,63,2001,2021,12,12,63,0,0
+ET,Taro,Meher,278,37,2001,2021,12,12,37,0,0
+ET,Beans (Red),Meher,218,49,2013,2021,9,12,49,0,0
+ET,Beet,Meher,179,35,2001,2021,12,12,35,0,0
+ET,Tomato,Meher,104,49,2001,2021,16,12,49,0,0
+ET,Yams,Meher,47,15,2014,2021,6,12,15,0,0
+ET,Rice,Meher,34,17,2001,2021,10,12,17,0,0
+ET,Carrots,Meher,25,14,2013,2021,7,12,14,0,0
+ET,Mung bean,Meher,19,7,2013,2021,7,12,7,0,0
+ET,Maize,Belg,18,3,2005,2022,11,8,3,0,0
+ET,Sunflower Seed,Meher,8,6,2007,2015,4,12,6,0,0
+ET,Beans (White),Belg,6,2,2008,2021,6,8,2,0,0
+ET,Sweet Potatoes,Belg,3,2,2013,2021,3,8,2,0,0
+ET,Beans (Red),Belg,2,2,2014,2021,2,8,2,0,0
+ET,Lettuce,Meher,2,2,2014,2019,2,12,2,0,0
+ET,Sorghum,Belg,2,1,2005,2010,2,8,1,0,0
+ET,Tomato,Belg,2,1,2016,2017,2,8,1,0,0
+ET,Cabbage,Belg,1,1,2021,2021,1,8,1,0,0
+ET,Ethiopian Cabbage,Belg,1,1,2021,2021,1,8,1,0,0
+ET,Fava Bean,Belg,1,1,2021,2021,1,8,1,0,0
+ET,Garlic,Belg,1,1,2021,2021,1,8,1,0,0
+ET,Green Peppers,Belg,1,1,2021,2021,1,8,1,0,0
+ET,Groundnuts (In Shell),Belg,1,1,2021,2021,1,8,1,0,0
+ET,Potato,Belg,1,1,2021,2021,1,8,1,0,0
+ET,Rape,Belg,1,1,2021,2021,1,8,1,0,0
+ET,Taro,Belg,1,1,2021,2021,1,8,1,0,0
+ET,Yams,Belg,1,1,2021,2021,1,8,1,0,0
+KE,Maize,Annual,1879,47,1975,2021,47,12,47,47,47
+KE,Maize,Long,901,47,1991,2024,21,8,47,42,42
+KE,Beans (mixed),Annual,1708,46,1971,2021,51,12,46,41,41
+KE,Maize,Short,584,46,1991,2024,20,3,46,21,21
+KE,Millet,Annual,737,35,1970,2021,42,12,35,18,18
+KE,Sorghum,Annual,593,47,1982,2021,23,12,47,18,18
+KE,Wheat,Annual,681,23,1970,2021,51,12,23,13,13
+KE,Potato,Annual,614,32,1966,2021,38,12,32,13,13
+KE,Cotton,Annual,360,24,1970,2021,26,12,24,8,8
+KE,Coffee,Annual,341,37,1982,2022,18,12,37,7,7
+KE,Pyrethrum,Annual,281,20,1970,2023,33,12,20,5,5
+KE,Tea,Annual,216,17,1982,2021,18,12,17,5,5
+KE,Sesame Seed,Annual,187,10,1970,2023,38,12,10,4,4
+KE,Rice,Annual,365,26,1970,2021,37,12,26,3,3
+KE,Sweet Potatoes,Annual,420,43,2007,2021,14,12,43,0,0
+KE,Cowpea,Annual,398,44,2006,2021,14,12,44,0,0
+KE,Cassava,Annual,395,43,2007,2021,14,12,43,0,0
+KE,Banana,Annual,389,47,2009,2023,15,12,47,0,0
+KE,Kale,Annual,352,47,2009,2023,13,12,47,0,0
+KE,Mung bean,Annual,343,40,2009,2021,11,12,40,0,0
+KE,Beans (mixed),Long,319,43,2017,2024,8,8,43,0,0
+KE,Watermelon,Annual,319,46,2009,2023,13,12,46,0,0
+KE,Tomato,Annual,285,46,2009,2023,13,12,46,0,0
+KE,Beans (mixed),Short,272,42,2018,2024,7,3,42,0,0
+KE,Sunflower Seed,Annual,264,22,1970,2023,33,12,22,0,0
+KE,Cabbage,Annual,245,40,2009,2023,13,12,40,0,0
+KE,Pea,Annual,174,41,2012,2023,12,12,41,0,0
+KE,Coriander,Annual,142,32,2012,2023,10,12,32,0,0
+KE,Groundnuts (In Shell),Annual,129,19,2017,2023,7,12,19,0,0
+KE,Onions,Annual,128,30,2009,2023,11,12,30,0,0
+KE,Pineapple,Annual,106,22,2012,2019,8,12,22,0,0
+KE,Macadamia,Annual,104,16,2017,2023,7,12,16,0,0
+KE,Carrots,Annual,96,32,2009,2014,4,12,32,0,0
+KE,Sugarcane,Annual,86,15,2015,2021,7,12,15,0,0
+KE,Tobacco,Annual,81,5,1974,1991,18,12,5,0,0
+KE,Sorghum,Long,80,44,2015,2016,2,8,44,0,0
+KE,Sorghum,Short,70,35,2016,2017,2,3,35,0,0
+KE,Taro,Annual,58,28,2009,2014,4,12,28,0,0
+KE,Pigeon Pea,Annual,54,26,2009,2013,4,12,26,0,0
+KE,Cashew (unshelled),Annual,53,6,2013,2023,11,12,6,0,0
+KE,Jute,Annual,51,11,2018,2023,6,12,11,0,0
+KE,Canola Seed,Annual,48,12,2020,2023,4,12,12,0,0
+KE,Bambara groundnut,Annual,36,6,2017,2022,6,12,6,0,0
+KE,Barley,Annual,17,6,2012,2014,3,12,6,0,0
+KE,Yams,Annual,8,8,2013,2013,1,12,8,0,0
+RW,Banana,Season A,91,30,2010,2017,4,2,30,0,0
+RW,Maize,Season A,91,30,2010,2017,4,2,30,0,0
+RW,Sweet Potatoes,Season A,91,30,2010,2017,4,2,30,0,0
+RW,Banana,Season B,90,30,2009,2017,4,7,30,0,0
+RW,Cassava,Season A,90,30,2010,2017,4,2,30,0,0
+RW,Cassava,Season B,90,30,2009,2017,4,7,30,0,0
+RW,Maize,Season B,90,30,2009,2017,4,7,30,0,0
+RW,Potato,Season A,90,30,2010,2017,4,2,30,0,0
+RW,Sweet Potatoes,Season B,90,30,2009,2017,4,7,30,0,0
+RW,Potato,Season B,89,30,2009,2017,4,7,30,0,0
+RW,Soybean,Season A,88,30,2010,2017,4,2,30,0,0
+RW,Pea,Season A,86,29,2010,2017,4,2,29,0,0
+RW,Sorghum,Season B,85,30,2009,2017,4,7,30,0,0
+RW,Yams,Season A,85,30,2010,2017,4,2,30,0,0
+RW,Yams,Season B,85,30,2009,2017,4,7,30,0,0
+RW,Pea,Season B,84,30,2009,2017,4,7,30,0,0
+RW,Soybean,Season B,77,30,2009,2017,4,7,30,0,0
+RW,Pole Bean,Season A,63,30,2012,2017,3,2,30,0,0
+RW,Groundnuts (In Shell),Season A,58,24,2010,2017,4,2,24,0,0
+RW,Beans (mixed),Season B,55,28,2009,2010,2,7,28,0,0
+RW,Beans (mixed),Season A,54,28,2010,2012,2,2,28,0,0
+RW,Groundnuts (In Shell),Season B,54,23,2009,2017,4,7,23,0,0
+RW,Rice,Season B,47,17,2009,2017,3,7,17,0,0
+RW,Sorghum,Season A,44,23,2010,2017,4,2,23,0,0
+RW,Rice,Season A,39,17,2010,2017,3,2,17,0,0
+RW,Bush Bean,Season A,35,30,2013,2017,2,2,30,0,0
+RW,Pole Bean,Season B,35,30,2013,2017,2,7,30,0,0
+RW,Bush Bean,Season B,34,29,2013,2017,2,7,29,0,0
+RW,Wheat,Season B,31,13,2009,2017,3,7,13,0,0
+RW,Wheat,Season A,26,13,2010,2017,3,2,13,0,0
+RW,Taro,Season A,7,7,2012,2012,1,2,7,0,0
+RW,Potato,Season C,4,4,2013,2013,1,9,4,0,0
+RW,Bush Bean,Season C,3,3,2013,2013,1,9,3,0,0
+RW,Pea,Season C,3,3,2013,2013,1,9,3,0,0
+RW,Cereal Crops,Season B,2,2,2013,2013,1,7,2,0,0
+RW,Pole Bean,Season C,2,2,2013,2013,1,9,2,0,0
+RW,Soybean,Season C,2,2,2013,2013,1,9,2,0,0
+RW,Cereal Crops,Season A,1,1,2013,2013,1,2,1,0,0
+SD,Sorghum,Main,1058,18,1975,2023,49,11,44,24,17
+SD,Millet,Main,825,15,1975,2023,49,11,30,18,14
+SD,Sesame Seed,Main,592,14,1990,2022,33,11,30,18,14
+SD,Groundnuts (In Shell),Main,403,14,1990,2022,33,11,42,10,10
+SD,Sorghum,Annual,237,11,1976,2024,48,5,11,5,5
+SD,Wheat,Annual,178,8,1976,2024,48,5,8,4,4
+SD,Sunflower Seed,Main,149,10,1990,2022,33,11,25,2,2
+SD,Wheat,Main,67,8,1990,2020,30,11,8,2,2
+SD,Cotton (American),Main,87,8,1990,2015,26,11,8,0,0
+SD,Cotton (Acala),Annual,38,6,1995,2016,20,5,6,0,0
+SD,Cotton,Main,27,5,2016,2022,7,11,10,0,0
+SD,Pigeon Pea,Main,20,11,2016,2018,3,11,12,0,0
+SD,Cotton,Annual,18,5,2017,2023,5,5,5,0,0
+SO,Maize,Gu,998,39,1995,2025,31,8,39,35,35
+SO,Maize,Deyr,836,35,1996,2026,31,3,35,31,31
+SO,Sorghum,Gu,837,40,1995,2025,31,8,40,30,30
+SO,Sorghum,Deyr,751,39,1996,2025,30,3,39,26,26
+SO,Cowpea,Gu,521,44,2003,2025,19,8,44,21,21
+SO,Cowpea,Deyr,535,38,2005,2026,20,3,38,19,19
+SO,Sesame Seed,Deyr,375,27,2005,2026,20,3,27,14,14
+SO,Maize,Deyr-off,239,27,2005,2026,21,4,27,8,8
+SO,Sesame Seed,Gu,324,29,2009,2025,17,8,29,7,7
+SO,Sesame Seed,Gu-off,161,22,2005,2025,20,9,22,5,5
+SO,Onions,Deyr,119,13,2011,2026,16,3,13,5,5
+SO,Maize,Gu-off,228,26,2005,2025,20,9,26,4,4
+SO,Sesame Seed,Deyr-off,153,24,2005,2026,19,4,24,4,4
+SO,Cowpea,Gu-off,128,18,2005,2025,20,9,18,4,4
+SO,Onions,Gu,113,9,2009,2025,16,8,9,4,4
+SO,Cowpea,Deyr-off,94,11,2007,2026,17,4,11,4,4
+SO,Tomato,Deyr,110,8,2011,2026,16,3,8,2,2
+SO,Watermelon,Deyr,43,3,2011,2026,16,3,3,2,2
+SO,Rice,Deyr,17,1,2009,2026,17,3,1,1,1
+SO,Rice,Gu,16,1,2008,2025,16,8,1,1,1
+SO,Tomato,Gu,101,13,2009,2025,16,8,13,0,0
+SO,Groundnuts (In Shell),Gu,41,4,2012,2025,14,8,4,0,0
+SO,Groundnuts (In Shell),Deyr,39,3,2012,2025,13,3,3,0,0
+SO,Watermelon,Gu,38,11,2011,2025,11,8,11,0,0
+SO,Chili Pepper,Gu,30,3,2011,2025,11,8,3,0,0
+SO,Sorghum,Deyr-off,28,14,2015,2026,7,4,14,0,0
+SO,Chili Pepper,Deyr,23,3,2012,2026,8,3,3,0,0
+SO,Sorghum,Gu-off,18,4,2016,2025,7,9,4,0,0
+SO,Groundnuts (In Shell),Deyr-off,3,3,2024,2024,1,4,3,0,0
+SO,Watermelon,Deyr-off,3,3,2025,2025,1,4,3,0,0
+SS,Cereal Crops,Main,90,10,2013,2022,9,12,10,0,0
+SS,Sorghum,Main,82,2,1975,2010,36,12,4,0,0
+SS,Millet,Main,56,2,1975,2010,36,12,3,0,0
+SS,Sesame Seed,Main,27,1,1990,2010,21,12,3,0,0
+SS,Groundnuts (In Shell),Main,21,1,1990,2010,21,12,1,0,0
+SS,Sorghum,Annual,11,1,1998,2010,11,5,1,0,0
+SS,Cotton (Acala),Annual,10,1,1997,2010,10,5,1,0,0
+SS,Cotton (American),Main,4,1,2005,2008,4,12,1,0,0
+SS,Sunflower Seed,Main,3,1,2007,2009,3,12,1,0,0
+TZ,Cassava,Annual,494,30,1992,2015,22,7,30,0,0
+TZ,Rice,Annual,481,25,1992,2014,22,7,25,0,0
+TZ,Maize,Annual,479,25,1992,2014,21,7,25,0,0
+TZ,Sorghum,Annual,458,25,1992,2014,20,7,25,0,0
+TZ,Banana,Annual,369,30,1993,2015,22,7,30,0,0
+TZ,Sweet Potatoes,Annual,331,25,1993,2010,15,7,25,0,0
+TZ,Groundnuts (In Shell),Annual,306,24,1993,2010,16,7,24,0,0
+TZ,Beans (mixed),Annual,291,23,1993,2010,14,7,23,0,0
+TZ,Potato,Annual,270,25,1993,2014,18,7,25,0,0
+TZ,Millet,Annual,243,20,1993,2014,19,7,20,0,0
+TZ,Sunflower Seed,Annual,212,24,1993,2010,12,7,24,0,0
+TZ,Sesame Seed,Annual,175,19,1993,2010,14,7,19,0,0
+TZ,Wheat,Annual,157,16,1991,2014,20,7,16,0,0
+TZ,Field Peas,Annual,149,23,1993,2000,8,7,23,0,0
+TZ,Maize,Long,84,30,2003,2015,3,8,30,0,0
+TZ,Cowpea,Annual,82,20,2004,2010,5,7,20,0,0
+TZ,Rice,Long,82,30,2003,2015,3,8,30,0,0
+TZ,Groundnuts (In Shell),Long,78,30,2003,2015,3,8,30,0,0
+TZ,Sorghum,Long,76,28,2003,2015,3,8,28,0,0
+TZ,Maize,Short,67,30,2003,2015,3,4,30,0,0
+TZ,Millet,Long,64,27,2003,2015,3,8,27,0,0
+TZ,Pea,Annual,60,23,2000,2010,5,7,23,0,0
+TZ,Rice,Short,53,25,2003,2015,3,4,25,0,0
+TZ,Sweet Potatoes,Long,52,30,2003,2015,2,8,30,0,0
+TZ,Groundnuts (In Shell),Short,50,26,2003,2015,3,4,26,0,0
+TZ,Bambara groundnut,Long,46,22,2003,2015,3,8,22,0,0
+TZ,Cowpea,Long,45,29,2003,2015,2,8,29,0,0
+TZ,Soybean,Annual,43,13,2004,2010,6,7,13,0,0
+TZ,Pigeon Pea,Annual,42,22,2003,2005,3,7,22,0,0
+TZ,Sorghum,Short,39,21,2003,2015,3,4,21,0,0
+TZ,Bambara groundnut,Annual,37,10,1993,2010,14,7,10,0,0
+TZ,Millet,Short,37,21,2003,2015,3,4,21,0,0
+TZ,Sesame Seed,Long,37,21,2003,2015,2,8,21,0,0
+TZ,Sunflower Seed,Long,36,19,2003,2015,2,8,19,0,0
+TZ,Potato,Long,33,24,2003,2015,2,8,24,0,0
+TZ,Beans (mixed),Long,31,22,2003,2015,2,8,22,0,0
+TZ,Beans (mixed),Short,31,19,2003,2015,2,4,19,0,0
+TZ,Mung bean,Long,30,18,2003,2015,2,8,18,0,0
+TZ,Sweet Potatoes,Short,30,22,2003,2015,2,4,22,0,0
+TZ,Wheat,Long,30,16,2003,2015,3,8,16,0,0
+TZ,Barley,Annual,29,3,1993,2010,12,7,3,0,0
+TZ,Bambara groundnut,Short,27,17,2003,2015,3,4,17,0,0
+TZ,Cowpea,Short,26,19,2003,2015,2,4,19,0,0
+TZ,Cassava,Long,25,25,2003,2003,1,8,25,0,0
+TZ,Soybean,Long,25,18,2003,2008,2,8,18,0,0
+TZ,Sunflower Seed,Short,24,18,2003,2015,2,4,18,0,0
+TZ,Chick Peas,Annual,21,8,2006,2010,3,7,8,0,0
+TZ,Mung bean,Short,20,16,2003,2015,2,4,16,0,0
+TZ,Yams,Long,19,17,2003,2015,2,8,17,0,0
+TZ,Chick Peas,Long,18,12,2003,2015,2,8,12,0,0
+TZ,Mung bean,Annual,18,5,2001,2014,8,7,5,0,0
+TZ,Potato,Short,17,12,2003,2015,2,4,12,0,0
+TZ,Sesame Seed,Short,15,12,2003,2015,2,4,12,0,0
+TZ,Cassava,Short,13,13,2003,2003,1,4,13,0,0
+TZ,Pigeon Pea,Long,13,13,2015,2015,1,8,13,0,0
+TZ,Taro,Long,13,12,2003,2015,2,8,12,0,0
+TZ,Sugarcane,Annual,12,12,2015,2015,1,7,12,0,0
+TZ,Field Peas,Long,9,9,2003,2003,1,8,9,0,0
+TZ,Taro,Short,9,8,2003,2015,2,4,8,0,0
+TZ,Chick Peas,Short,8,6,2003,2015,2,4,6,0,0
+TZ,Pigeon Pea,Short,8,8,2015,2015,1,4,8,0,0
+TZ,Wheat,Short,8,7,2008,2015,2,4,7,0,0
+TZ,Soybean,Short,6,4,2003,2008,2,4,4,0,0
+TZ,Field Peas,Short,5,5,2003,2003,1,4,5,0,0
+TZ,Yams,Short,4,4,2003,2003,1,4,4,0,0
+TZ,Barley,Long,3,3,2003,2008,2,8,3,0,0
+TZ,Barley,Short,3,3,2008,2008,1,4,3,0,0
+TZ,Mung bean,Long/Dry,2,2,2003,2003,1,8,2,0,0
+TZ,Taro,Annual,2,2,2003,2003,1,7,2,0,0
+TZ,Taro,Long/Dry,2,2,2003,2003,1,8,2,0,0
+TZ,Cassava,Long/Dry,1,1,2003,2003,1,8,1,0,0
+TZ,Chick Peas,Long/Dry,1,1,2003,2003,1,8,1,0,0
+TZ,Maize,Long/Dry,1,1,2003,2003,1,8,1,0,0
+TZ,Soybean,Long/Dry,1,1,2003,2003,1,8,1,0,0
+TZ,Yams,Annual,1,1,2000,2000,1,7,1,0,0
+UG,Maize,Second,80,80,2008,2008,1,12,80,0,0
+UG,Beans (mixed),Second,79,79,2008,2008,1,12,79,0,0
+UG,Maize,First,79,79,2009,2009,1,7,79,0,0
+UG,Beans (mixed),First,78,78,2009,2009,1,7,78,0,0
+UG,Cassava,Second,78,78,2008,2008,1,12,78,0,0
+UG,Sweet Potatoes,First,78,78,2009,2009,1,7,78,0,0
+UG,Sweet Potatoes,Second,78,78,2008,2008,1,12,78,0,0
+UG,Cassava,First,77,77,2009,2009,1,7,77,0,0
+UG,Groundnuts (In Shell),Second,75,75,2008,2008,1,12,75,0,0
+UG,Groundnuts (In Shell),First,72,72,2009,2009,1,7,72,0,0
+UG,Millet,Second,70,70,2008,2008,1,12,70,0,0
+UG,Sorghum,First,70,70,2009,2009,1,7,70,0,0
+UG,Sorghum,Second,70,70,2008,2008,1,12,70,0,0
+UG,Banana,Second,69,69,2008,2008,1,12,69,0,0
+UG,Banana,First,62,62,2009,2009,1,7,62,0,0
+UG,Millet,First,61,61,2009,2009,1,7,61,0,0
+UG,Rice,Second,49,49,2008,2008,1,12,49,0,0
+UG,Soybean,First,49,49,2009,2009,1,7,49,0,0
+UG,Field Peas,Second,46,46,2008,2008,1,12,46,0,0
+UG,Soybean,Second,42,42,2008,2008,1,12,42,0,0
+UG,Rice,First,39,39,2009,2009,1,7,39,0,0
+UG,Sesame Seed,Second,39,39,2008,2008,1,12,39,0,0
+UG,Sesame Seed,First,38,38,2009,2009,1,7,38,0,0
+UG,Field Peas,First,37,37,2009,2009,1,7,37,0,0
+UG,Potato,Second,35,35,2008,2008,1,12,35,0,0
+UG,Cowpea,Second,34,34,2008,2008,1,12,34,0,0
+UG,Pigeon Pea,Annual,34,22,2008,2009,2,11,22,0,0
+UG,Potato,First,31,31,2009,2009,1,7,31,0,0
+UG,Cowpea,First,22,22,2009,2009,1,7,22,0,0
