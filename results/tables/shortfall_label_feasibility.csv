@@ -1,0 +1,9 @@
+country_code,product,season_name,labelled_unit_seasons,shortfall_events,units,first_labelled_year,last_labelled_year,prevalence,labelled_years,widespread_shortfall_years,labelled_years_2018_plus
+ET,Maize,Meher,666,9.0,72,2005,2021,0.013513513513513514,17,0,4
+ET,Sorghum,Meher,547,8.0,60,2007,2021,0.014625228519195612,15,0,4
+KE,Maize,Long,434,138.0,46,2001,2024,0.31797235023041476,11,6,7
+KE,Maize,Short,164,79.0,31,2001,2024,0.4817073170731707,10,5,7
+SO,Maize,Deyr,515,226.0,31,2006,2026,0.4388349514563107,21,16,9
+SO,Maize,Gu,616,265.0,37,2005,2025,0.4301948051948052,21,17,8
+SO,Sorghum,Deyr,416,168.0,30,2006,2025,0.40384615384615385,20,12,8
+SO,Sorghum,Gu,483,218.0,31,2005,2025,0.45134575569358176,21,15,8
